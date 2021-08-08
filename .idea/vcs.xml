@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CustomSpinner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoginInstagram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyJancy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyjancyUpdatee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/FacebookPost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/MovieWatch/MovieWatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/MoviesApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/PokemonApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/PostsWithRoom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Task" vcs="Git" />
+  </component>
+</project>
